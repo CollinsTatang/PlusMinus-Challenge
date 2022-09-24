@@ -8,8 +8,10 @@ Complete the plusMinus function in the editor below.
 
 plusMinus has the following parameter(s):
 
-int arr[n]: an array of integers
-Print
+    int arr[n]: an array of integers
+
+## Print
+
 Print the ratios of positive, negative and zero values in the array. Each value should be printed on a separate line with  digits after the decimal. The function should not return a value.
 
 ## Input Format
@@ -19,7 +21,7 @@ The second line contains  space-separated integers that describe .
 
 ## Output Format
 
-<b>Print</b> the following  lines, each to  decimals:
+<b>Print</b> the following 3 lines, each to 6 decimals:
 
     1. proportion of positive values
     2. proportion of negative values
